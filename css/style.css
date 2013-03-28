@@ -262,6 +262,19 @@ float:right;
 #right-i {
   padding: 4px 25px 0 20px;
 }
+#right-i form{
+   width: 145px;
+   height: 120px;
+   border-color: #000000;
+	
+	}
+	#right-i input{
+	width:130px;
+	height: 24px;
+	font-size:14px;
+	font:"Times New Roman", Times, serif;
+		
+		}
 #right h2 {
   color: #323E51;
   font: 22px "Times new roman", serif;

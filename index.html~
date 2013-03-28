@@ -12,7 +12,7 @@
 	
 </head>
 
-<body onload="loadinitial();">
+<body onload="loadinitial()">
 
   <div id="wrapper">
     <h1>...The <strong>KHOJKHABAR</strong> Media...</h1>
