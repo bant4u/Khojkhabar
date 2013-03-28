@@ -5,6 +5,12 @@ html, body, h1, h2, h3, h4, ul, li {
 h1 img {
 	display: block;
 }
+h3.news{
+  margin:0;
+  padding:0;
+  text-decoration:underline;
+  font-size: 3px;
+}
 img {
 	border: 0;
 }
@@ -206,8 +212,8 @@ float:right;
 
 #subs-left {
   float: left;
-  width: 160px;
-  padding-left: 35px;
+  width: 200px;
+  padding-left: 0px;
   padding-bottom: 10px;
   margin-top: 22px;
 }
@@ -261,6 +267,7 @@ float:right;
 
 #right-i {
   padding: 4px 25px 0 20px;
+  background-color:#E8C0C0;
 }
 #right h2 {
   color: #323E51;
@@ -305,4 +312,18 @@ float:right;
   padding: 0;
   border:thin;
   
+}
+/** News Content**/
+#newscontent {
+
+  float: left;
+  width: 400px;
+  font-color: black;
+  text-align: justify;
+  font-size: 11px;
+  float:left;
+  padding: 10px;
+  margin-bottom: 20px;
+  align:center;
+
 }
