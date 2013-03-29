@@ -1,0 +1,27 @@
+
+<link rel="stylesheet" href="style.css" />
+
+
+        
+            <div id="slider" class="nivoSlider">
+                <img src="images/1.jpg" alt="" style="height:100px; width:50px;" title="this is blue hills" />
+             <img src="images/2.jpg".jpg" style="height:50px; width:150px; alt="" title="this is the sunset" />
+                <img src="images/3.png"" style="height:150px; width:50px; alt="" title="this is water lillies"/>
+                <img src="images/4.png" alt="" style="height:100px; width:50px;" title="WInter season" />
+            </div>
+            
+        
+
+
+
+ <link rel="stylesheet" href="nivo-slider/nivo-slider.css" type="text/css" media="screen" />
+    <script type="text/javascript" src="nivo-slider/jquery-1.4.3.min.js"></script>
+    <script type="text/javascript" src="nivo-slider/jquery.nivo.slider.pack.js"></script>
+	 <link rel="stylesheet" href="./nivo-slider/style.css" type="text/css" media="screen" />
+    
+	 <script type="text/javascript">
+    $(window).load(function() {
+        $('#slider').nivoSlider();
+    });
+    </script>
+
