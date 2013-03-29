@@ -35,9 +35,7 @@ body {
 }
 
 /** layout **/
-#wrapper1{
-z-index:-5;
-}
+
 #wrapper {
     text-align: left;
     margin: auto;
@@ -257,7 +255,7 @@ h1 strong {
 }
 #subs-right {
     float: right;
-    width: 145px;
+    width: 245px;
     padding-right: 30px;
     padding-bottom: 10px;
     margin-top: 22px;
@@ -269,26 +267,27 @@ h1 strong {
     color: #fff;
 }
 #subs-left h3 {
-    color: #000000;
+    color: #fff222;
     font: 16px "Times new roman", serif;
 }
 #subs-left p {
     text-align: justify;
+	font: 16px "Times new roman", serif;
 }
 
 #subs-right {
     color: #fff;
 }
 #subs-right h3 {
-    color: #000000;
+    color: #ffffff;
     padding-left: 20px;
     padding-bottom: 14px;
     font: 16px "Times new roman", serif;
 }
 #subs-right h4 {
-    color: #000000;
+    color: #fffaaa;
     font: 14px "Times new roman", serif;
-    margin: 0.6em 0;
+    margin: 0.6em ;
 }
 #subs-right ul {
     margin-top: 1em;
@@ -301,6 +300,7 @@ h1 strong {
 #subs-right p {
     text-align: justify;
     margin: 0.6em 0;
+	font: 16px "Times new roman", serif;
 }
 
 #right-i {
